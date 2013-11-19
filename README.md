@@ -1,5 +1,5 @@
-chipotle
-========
+Chipotle!
+=========
 
 Chipotle is a rapidly growing gourmet food franchise and a staple in the diet of college students around the country, if not the world. However, in the midst of this culinary revolution, many students feel overwhelmed by the by the sheer number of franchises springing up left, right and center.
 
